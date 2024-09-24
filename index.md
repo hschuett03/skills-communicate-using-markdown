@@ -5,3 +5,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Add Image
+- [x] Add code example
+- [x] Add task list
+- [ ] Complete Markdown Tutorial
